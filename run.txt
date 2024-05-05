@@ -1,0 +1,20 @@
+
+xampp start karine- mysql,apache start karva
+script ma activate
+
+1) cd..
+2)cd..
+3)cd oibp
+4) python manage.py runserver
+
+
+project run karva mate:
+Browser ma jaine
+127.0.0.1:8000 type karvanu
+
+Admin Open karva Link
+====================
+http://127.0.0.1:8000/myadmin/login
+
+username = oibp
+password = oibp
